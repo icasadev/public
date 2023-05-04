@@ -1,1 +1,14 @@
-{"menu":[{"id":1,"title":"First","price":"10"},{"id":2,"title":"Second","price":"10"}]}
+{
+    "menu": [
+      {
+        "id": 1,
+        "title": "First",
+        "price": "10"
+      },
+      {
+        "id": 2,
+        "title": "Second",
+        "price": "10"
+      }
+    ]
+  }
