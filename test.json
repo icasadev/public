@@ -1,1 +1,12 @@
-{"items":{"menu":["id":1]}}
+{
+  "menu":[
+    {
+      "id":"1",
+      "name":"dish1"
+    },
+    {
+      "id":"2",
+      "name":"dish2"
+    }
+  ]
+}
