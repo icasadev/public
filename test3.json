@@ -1,12 +1,12 @@
 {
   "menu": {
     "id": {
-      "title" : "1",
-      "price": "2"
+      "title" : "dish 1",
+      "price": "price 1"
     },
     "id": {
-      "title" : "3",
-      "price": "4"
+      "title" : "dish 2",
+      "price": "price 2"
     }
   } 
 }
