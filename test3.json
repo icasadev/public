@@ -3,10 +3,6 @@
     "id": {
       "title" : "dish 1",
       "price": "price 1"
-    },
-    "id": {
-      "title" : "dish 2",
-      "price": "price 2"
     }
   } 
 }
